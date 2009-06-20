@@ -1,0 +1,9 @@
+<Identify>
+  <repositoryName>Demo Operat Unite OAI-PMH</repositoryName>
+  <baseURL>http://my.hochsten.operaunite.com/oai/</baseURL>
+  <protocolVersion>2.0</protocolVersion>
+  <adminEmail>patrick.hochstenbach@ugent.be</adminEmail>
+  <earliestDatestamp>1990-02-01T12:00:00Z</earliestDatestamp>
+  <deletedRecord>no</deletedRecord>
+  <granularity>YYYY-MM-DD</granularity>
+</Identify>
